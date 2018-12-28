@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice" language="de">Hallo Eren. Ich hoffe, dass dir folgendes Musikstück gefaellt.</Say>
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>

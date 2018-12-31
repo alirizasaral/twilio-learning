@@ -1,4 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Response>
-<Say voice="woman" language="de-DE">Hallo Eren. Wie geht es dir?</Say>
-</Response>
+<?xml version="1.0" encoding="UTF-8"?><Response><Say language="de-DE" voice="woman">Wie geht es dir?</Say></Response>
